@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Open-source Quality Assurance Project
+title: Open-source Quality Research Project
 email: sclinede@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The project is created to solve the problem of quality assuarnce in
-  open-source software. There should be placed and described set of
+  open-source software. In these pages should be placed and described set of
   tools and procedures to achieve higher quality of the open-source
   software.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oss-playbook.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://open-source-quality.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ss_dolganov
 github_username:  sclinede
 
