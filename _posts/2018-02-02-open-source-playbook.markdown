@@ -8,32 +8,29 @@ date:   2018-02-02 00:00:02 +0000
 
 Welcome to the [Open-source Enthusiast Playbook](#playbook)!
 
-Here you will discover some thoughts and principles about open-source movement.
-The goal of the paper is to assist you in the decision about way of participation in the open-source development.
-I'll try to show you how to make process enjoyable, comfortable and beneficial for both yourself and the community.
+Here you will discover some thoughts and principles that concern the open-source movement.
+The goal of the paper is to guide your decisions about participation in the open-source development.
+I'll try to show you how to make this process enjoyable, comfortable and beneficial for the community and yourself.
 
 ## <a name="problem"></a> The Problem
 
-Everything starts from the Problem. Every day we solve a lot of problems and we don't focus much on the
-process until we discover some with no clue about the answer. So let's quickly take a look over common way
-to fight it:
+Everything starts with the Problem. Every day we solve a lot of problems and we don't focus much on the
+process until some problem leaves us clueless. How can we fight it?
 
-- _Research_, we try to find any existing way to treat the problem
+- _Research_ — we try to find an existing way to solve the problem;
 
-- _Comparison_, if we found some approaches we need to choose one to apply
+- _Comparison_ — if we found some approaches we need to choose one that is applicable;
 
-- _Application_, experience of approach application to your problem
+- _Application_ — experience of applying a chosen approach to your problem;
 
-- _Adjustment_, actions about some negative feedback from solution usage experience
+- _Adjustment_ — changes based on a negative feedback from previous experience;
 
-- _Innovation_, possibility to create new approach based on your experience
+- _Innovation_ — possibility to create new approach based on your experience.
 
-Till now, we talked in general but the same is valid for open-source solutions and projects. So
-you could apply that receipt to solve your problem using open-source infrastructure.
+These are general terms, but they are also applicable to open-source solutions and projects. You can apply this recipe to your problem using an open-source infrastructure.
 
-But sometimes the problem is not usual. Sometimes The Problem is just curiosity about some subject.
-Then we should only focus on studing experience, not the particular application of some solution.
-
+Sometimes, the problem is not trivial. Sometimes, The Problem is just being curious about some subject.
+Then we should only focus on studying the experience, not the particular application of some solution.
 
 Summarily, we have variety of enthusiasm efforts as the input. Let's call it Problem Empathy Axis which
 starts from Little curiosity and ends up with Problem Empathy.
