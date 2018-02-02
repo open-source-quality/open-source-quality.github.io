@@ -6,7 +6,7 @@ date:   2018-02-01 00:00:01 +0000
 
 # Open-Source Maturity Model
 
-This model was built to clarify Intention to use, Risks and Resource Wastage in the process specific for maturity stages based on Hype Cycle chart.
+This model was built to clarify Intention to use, Risks and Resource Wastage in the open-source development process, which are specific for maturity stages based on Hype Cycle chart.
 
 ![Hype Cycle Chart](/hype-cycle-chart.png){:class="img-responsive"}
 
@@ -21,10 +21,10 @@ Model could be observed from 2 perspectives:
 - Participant of the project community
 
 For each stage I'll provide:
-- _Intention to Use_, short description of possible ways to safely adopt solution on any maturity stage
-- _Indicators_, assistance in making decision about maturity stage
-- _Stage Risks_, which should be considered first
-- _Resource Wastage_, hint about the possible development process optimization
+- __Intention to Use__, short description of possible ways to safely adopt solution on any maturity stage
+- __Indicators__, assistance in making decision about maturity stage
+- __Stage Risks__ which should be considered first
+- __Resource Wastage__, is a hint about the possible development process optimization
 
 And the last thing. While project become more mature it's also become less innovative, so keep yours goal clear.
 The more innovative tool you want to use the more risky it will be.
@@ -102,8 +102,8 @@ At this stage solution became mature enough for higher adoption. So while still 
 already done hard work about debugging of the solution. So most of the complaints could be about sub-optimal behavior and lack of features.
 
 So for the team the highest risk is the ability to grow up development velocity while focusing on the almost bug-free behavior. Literally, the risks are:
-- Support Capacity, the problem is how to balance the development of features and bugs fixes
-- Sustainability, as project became pretty adopted team should take actions about ability to recover development in case of maintainer switch.
+- _Support Capacity_, the problem is how to balance the development of features and bugs fixes
+- _Sustainability_, as project became pretty adopted team should take actions about ability to recover development in case of maintainer switch.
 
 ### Resource Wastage
 For the _Support Capacity_ problem it could be a huge optimization to define strict _Feature Requirements_, to get rid of unnecessary and non-critical stuff.
@@ -127,17 +127,17 @@ The most important indicator is maintainers team growth. Which, also leads to a 
 ### Stage Risks
 At this stage solution the higher level of adoption could lead to contributions overflow. Maintanance team is critical to grow.
 The critical risks are:
-- Confusing collaboration, which stall the development process
-- Lack of solved problem documentation leads to overcomplexity of the project, the best way is to define boundaries and add documentation
+- _Confusing collaboration_, which stall the development process
+- _Lack of solved problem documentation_ leads to overcomplexity of the project, the best way is to define boundaries and add documentation
 that could help members of community to create alternative solution. On one side it will help to simplify current project and on the other
 encourage more developers to participate in problem solving.
 
 ### Resource Wastage
 For the _Confusing collaboration_ problem the huge optimization is _Development process documetation_ which includes CONTRIBUTING.md, templates of Issues and Pull Requests, etc.
 
-
-# Conclusion
 ---
+
+## Conclusion
 
 If you found any part of the document confusing or incomplete feel free to create an Issue on [GitHub](https://github.com/open-source-quality/open-source-quality.github.io/issues).
 Contributions are welcome!

@@ -84,14 +84,14 @@ Couple of words about the open-source community roles:
 - [__Spectators__](#spectator-playbook) intention is thirst of knowledge and ideas. She plays important role in the problem discussions and interest propogation.
 - [__End-users__](#user-playbook) intention is to get through some problem using a tool. Also, as a side product she gathers experience in the problem field.
 - [__Reporters__](#reporter-playbook) intention is to provoke community to resolve some issue or extend the solution scope with some whistles. The side product here is the experience of efficient communication and forming requirements in the complex development process.
-- [__Contributors__](#contributor-playbook) intention is to solve some corner case relevant to his environment. The side product is experience learnt by doing and yeilded from communication with other engineers.
+- [__Contributors__](#contributor-playbook) intention is to solve some corner case relevant to his environment. The side product is experience learnt by doing and yielded from communication with other engineers.
 - [__Maintainers__](#maintainer-playbook) intention is an attitude to find the most optimal solution to some problem critical to the maintainers environment. The side product is the ability to put together intelligent and harmonious community and maybe even find friends in a fight with the problem.
 
 So if you've mentioned something about yourself in the description above in relation to the problem - you're half way down the road to an interesting open-source adventure.
-Otherwise, I ask you to express your opinion in the issue to this project [here](https://github.com/open-source-quality/open-source-quality.github.io/issues).
+Otherwise, I ask you to express your opinion in the [issue to this research](https://github.com/open-source-quality/open-source-quality.github.io/issues).
 
 Remember the Empathy Axis we've discussed? Here we could apply it, too!
-At the start near the Curiosity we have Spectators role and at the end near the Problem Hyper-empathy is Maintainers role.
+At the start near the Curiosity we have Spectators role and at the end near the Problem Empathy is Maintainers role.
 
 ![Enpathy Axis](/problem-empathy-roles-axis.png){:class="img-responsive"}
 
@@ -101,7 +101,9 @@ Let's pack the whole together!
 
 ![Open-source Enthusiast Chart](/playbook-chart.png){:class="img-responsive"}
 
-Let's take a ride over the whole process. We're starting from our [problem definition](#problem), then we need to define our goal using two axis:
+Let's take a ride over the whole process.
+
+We're starting from our [problem definition](#problem), then we need to define our goal using two axis:
 - [_Empathy to the problem_](#roles) and choose preferable roles
 - [_Focus of innovation_](#focus) and choose preferable focus group to action
 
@@ -235,12 +237,13 @@ Compose a clear summary based on your answers. Add here some notes about what co
 So one thing you could do is to share it with the community in the most comfortable way.
 Sometimes it makes sense to create an issue or just DM to some of the maintainers in their public social.
 
-And last thing. You _DON'T HAVE TO_ share. The introspection makes sense on its own. It is an attempt to
+And the last thing. You _DON'T HAVE TO_ share. The introspection makes sense on its own. It is an attempt to
 clarify what is your intention to be a part of the open-source community.
 There is nothing wrong with any type of interaction with open-source community, as well as just leaving it,
 even sometimes, without a notice)
 
-Just remember to be an intelligent man and have fun!
+__Just remember to be an intelligent man and have fun!__
+
 ---
 
 # Conclusion
