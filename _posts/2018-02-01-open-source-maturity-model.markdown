@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Open-source Maturity Model"
-date:   2018-01-01 20:54:29 +0500
+title:  "Open-source Maturity Model"
+date:   2018-02-01 00:00:01 +0000
 ---
 
 # Open-Source Maturity Model
 
 This model was built to clarify Intention to use, Risks and Resource Wastage in the process specific for maturity stages based on Hype Cycle chart.
-
 
 ![Hype Cycle Chart](/hype-cycle-chart.png){:class="img-responsive"}
 

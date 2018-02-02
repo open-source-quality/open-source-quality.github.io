@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The project is an initiative to solve the problem of quality assuarnce in open-source software.
+The pages in this blog would about set of tools and procedures to achieve higher quality of the
+open-source software.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+It was first shared in public on 3rd of February 2018 at FOSDEM conference.
 
+You can find the source code for the project at GitHub:
+[open-source-quality](https://github.com/open-source-quality/open-source-quality.github.io)
 
-[jekyll-organization]: https://github.com/jekyll

@@ -16,10 +16,9 @@
 title: Open-source Quality Research Project
 email: sclinede@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The project is created to solve the problem of quality assuarnce in
-  open-source software. In these pages should be placed and described set of
-  tools and procedures to achieve higher quality of the open-source
-  software.
+  The project is an initiative to solve the problem of quality assuarnce in open-source software.
+  The pages in this blog would about set of tools and procedures to achieve higher quality of the
+  open-source software.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://open-source-quality.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ss_dolganov
