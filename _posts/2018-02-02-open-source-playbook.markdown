@@ -209,7 +209,7 @@ the same goal: find most optimal solution that will satisfy most people. Even mo
 
 Summarize your open-source experience by answering these questions and help projects you have participated in to become more accessible and open:
 
-- Did I solve the problem you were trying to solve? If not, why did you stop?
+- Did I solve a problem I was trying to solve? If not, why did I stop?
 
 - What have I learned from that experience?
 
