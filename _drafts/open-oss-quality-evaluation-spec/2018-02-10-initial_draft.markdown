@@ -7,9 +7,9 @@ date:   2018-02-10 00:00:02 +0000
 # Open-source Software Quality Evaluation Specification
 
 - [Intro](#intro)
-- [Entities & Relations](#entities-relations)
 - [Schema & Perspectives](#schema-perspectives)
 - [Metrics & Patterns](#metrics-patterns)
+- [Entities & Relations](#entities-relations)
 - [Calculations](#calculations)
 - [Interpretations](#interpretation)
 
@@ -88,7 +88,7 @@ __Problem__ could NOT have link to __Source Code__, as the last only represents 
 ### Perspectives of research within the schema
 Main perspectives for the research could be revealed by the impact the problem have on particular part of the community members.
 
-#### User
+#### User (+ Bug Reporter) (Desire to __Solve__ her own Problem and __Use__ Solution)
 So the most obvious one is a User perspective. It's critical for some members to solve the problem or paricular problem case, so they:
 - search for existing solutions (both using some search tool or bookmarks/notes they have)
 - figure out which of existing tools is most relevant as the solution (the hype also adds some point here)
@@ -99,7 +99,7 @@ The consequences here:
 - We have a new member of problem community
 - Possibly, we have a new project and a new maintainer within problem community (switch of perspective)
 
-#### Maintainer
+#### Maintainer (Desire to be the one who __Research__, __Solves__ the Problem and __Shares__ the Solution)
 Basically, the maintainer represent 4 roles in a project:
 - an inventor of the tool (focus - RnD and MVP for some problem);
 - the support team leader (focus - bug reports);
@@ -123,7 +123,7 @@ The consequences here:
 - We have a member with several roles over one person
 - The future about the project community is questionable (some maintainers want to lead a community, some of them don't)
 
-#### Student (Curiosity-driven member)
+#### Scientist (Curiosity-driven member) (Desire to be the one who __Research__ and __Learn__ about the Problem. New Horizons)
 This is one of the most undervalued member of community. At the same time, there is high chance of this community to be the biggest also.
 There are no strict behavior rules or obligations for them, as nobody really count or think about them.
 
@@ -144,7 +144,7 @@ The consequences here:
 - Could easily share the same role in several project. May even be interested to gather knowledge from all accessible projects within problem area
 - Member lacks his own orbit in the community model. So now, it will either land in Contributors or Users or even worse outside the community
 
-#### Donator/Investor
+#### Donator/Investor (Desire to help or __Support__ Maintainers Community)
 The role is now again not established properly. Nowdays, the behavior is mostly chaotic, so the eventually leads us to some solutions in the area.
 So main problem here is how to establish money flow to the open-source communities critical for software development.
 
@@ -153,12 +153,13 @@ Questions to answer for the perspective:
 - What amount of money could I (as person or corporate) share?
 - Which projects or communities to choose as a target and why?
 
-
 The consequences here:
 - We have a member of problem community
 - The member willing to share some money with the community to stimulate it's development
 - The member could not be able to participate in the community in other roles
 - The member could be a person and a corporate with different intention to their donations
+
+#### Contributor (User + Desire to __Participate__ in Community, __Solve__ the Problem and __Learn__ through Development)
 
 ---
 
@@ -181,6 +182,12 @@ What impact do they have on each __Perspective__? How could we measure them? Wha
 
 
 ---
+
+# Common Thoughts
+## Non-linear Conversion
+Conversion to the Contributors could be not only from Users. If you're able to establish process using some dummy app with enough test cases, you could also encourage Spectators to start
+the participation within Project. Just drop in, get dummy app, verify that bug is reproducable, follow the steps for new contributors and that's it.
+Of course with higher growth of Contributions you have to also share somehow the role of Reviewer...
 
 
 # Conclusion
